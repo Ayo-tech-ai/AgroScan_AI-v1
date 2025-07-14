@@ -1,0 +1,11 @@
+streamlit
+torch
+torchvision
+transformers
+Pillow
+gdown
+tensorflow
+numpy
+tf-explain
+scikit-learn
+joblib
