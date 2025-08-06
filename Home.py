@@ -7,7 +7,7 @@ st.markdown("""
 AgroScan AI is your unified, AI-powered assistant for smart agriculture.
 Choose one of the tools from the sidebar to:
 
-- Diagnose **rice leaf diseases** using image classification  
-- Detect **moringa leaf conditions** with visual explanations  
-- Get **crop recommendations** based on soil and climate data  
+- Detect **Rice leaf diseases** using image classification  
+- Detect **Moringa leaf diseases** with visual explanations  
+- Get **Crop Recommendations** based on soil and climate data  
 """)
