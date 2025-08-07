@@ -8,3 +8,4 @@ transformers==4.40.1
 gdown==5.2.0
 joblib==1.4.2
 scikit-learn==1.5.1
+safetensors==0.4.2
